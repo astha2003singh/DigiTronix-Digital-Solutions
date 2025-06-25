@@ -1,1 +1,1 @@
-DigiTronix is a web application for providing digital services to the users. It is Build using HTML, TailwindCSS and JavaScript.
+DigiTronix is a web application that showcases digital services to users. It is built using HTML, TailwindCSS, and JavaScript.
